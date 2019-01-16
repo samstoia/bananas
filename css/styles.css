@@ -1,0 +1,17 @@
+#letter {
+  display: none;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+body {
+  background-color: teal;
+}
+
+img {
+  height: 500px;
+  width: 700px;
+  margin-left: 100px;
+}
