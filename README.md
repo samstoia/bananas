@@ -2,7 +2,7 @@
 a banana ordering webpage. 
 
 ## Setup/Installation Requirements
-using command line, clone github repo by typing: git clone https://github.com/samstoia/resort-website
+using command line, clone github repo by typing: git clone https://github.com/samstoia/bananas
 find the file on your computer
 open the desired html file in your browser.
 ## Known Bugs
